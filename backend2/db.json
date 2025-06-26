@@ -1,0 +1,28 @@
+{
+  "cadastros": [
+    {
+      "id": "1",
+      "nome": "Ana Souza",
+      "cpf": "111.222.333-44",
+      "senha": "senha123"
+    },
+    {
+      "id": "2",
+      "nome": "Carlos Lima",
+      "cpf": "555.666.777-88",
+      "senha": "minhasenha"
+    }
+  ],
+  "logins": [
+    {
+      "id": "1",
+      "nome": "Joana Pereira",
+      "senha": "joana123"
+    },
+    {
+      "id": "2",
+      "nome": "Lucas Andrade",
+      "senha": "senha456"
+    }
+  ]
+}
