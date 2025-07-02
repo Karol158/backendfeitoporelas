@@ -1,28 +1,82 @@
 {
-  "cadastros": [
+  "usuarios": [
     {
-      "id": "1",
-      "nome": "Ana Souza",
-      "cpf": "111.222.333-44",
-      "senha": "senha123"
+      "id": "e353",
+      "email": "teste@gmail.com",
+      "senha": "teste",
+      "nome": "teste",
+      "documento": "12344567"
     },
     {
-      "id": "2",
-      "nome": "Carlos Lima",
-      "cpf": "555.666.777-88",
-      "senha": "minhasenha"
+      "id": "d2d6",
+      "email": "teste2@gmail.com",
+      "senha": "testew2",
+      "nome": "teste2",
+      "documento": "1111111"
+    },
+    {
+      "id": "ba26",
+      "email": "mi@gmail.com",
+      "senha": "mi",
+      "nome": "millena",
+      "documento": "000001"
+    },
+    {
+      "id": "628b",
+      "email": "teste3@gmail.com",
+      "senha": "teste3",
+      "nome": "teste3",
+      "documento": "555555"
     }
   ],
-  "logins": [
+  "login": [
     {
-      "id": "1",
-      "nome": "Joana Pereira",
-      "senha": "joana123"
+      "id": "e353",
+      "nome": "teste",
+      "senha": "teste"
+    
     },
     {
-      "id": "2",
-      "nome": "Lucas Andrade",
-      "senha": "senha456"
+      "id": "d2d6",
+      "nome": "teste2",
+      "senha": "testew2"
+      
     }
+    
+  ],
+  "cadastroprodutos": [
+    {
+      "id": "555",
+      "descricao": "blalalalala",
+      "valor": "R$ 40,00"
+    
+    },
+    {
+      "id": "216",
+      "descricao": "lelelelele",
+      "valor": "R$ 30,00"
+      
+    }
+    
+  ],
+  "cadastroempresas": [
+    {
+      "id": "639",
+      "nomenegócio": "gil do lanche",
+      "documento":"40028922",
+      "email": "gil123@gmail.com",
+      "nichovendas":"vendas"
+      
+    
+    },
+    {
+      "id": "708",
+      "nomenegócio": "Karol da coxinha",
+      "documento": "11111111111",
+      "email":"ka1508@gmail.com",
+      "nichovendas":"vendas"
+      
+    }
+    
   ]
 }
