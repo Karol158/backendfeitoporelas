@@ -6,6 +6,22 @@
       "senha": "teste",
       "nome": "teste",
       "documento": "12344567"
+    },
+    {
+      "id": "7cbe",
+      "nome": "teste",
+      "senha": "teste"
+    },
+    {
+      "id": "b483",
+      "nome": "nilson",
+      "documento": "124574857878",
+      "senha": "123456"
+    },
+    {
+      "id": "e776",
+      "nome": "nilson",
+      "senha": "123456"
     }
   ],
   "login": [
@@ -43,14 +59,17 @@
       "nomenegócio": "gil do lanche",
       "documento": "40028922",
       "email": "gil123@gmail.com",
-      "nichovendas": "vendas"
+      "categoria": "1",
+      "endereco":"Rua 1travessa Santo Aleixo"
     },
     {
       "id": "708",
       "nomenegócio": "Karol da coxinha",
       "documento": "11111111111",
       "email": "ka1508@gmail.com",
-      "nichovendas": "vendas"
+      "categoria": "2",
+       "endereco":"Rua 2travessa Santo Aleixo"
     }
   ]
+  
 }
