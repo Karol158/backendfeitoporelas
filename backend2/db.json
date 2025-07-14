@@ -56,6 +56,7 @@
   "cadastroempresas": [
     {
       "id": "639",
+      "img":"",
       "nomenegócio": "gil do lanche",
       "documento": "40028922",
       "email": "gil123@gmail.com",
@@ -64,6 +65,7 @@
     },
     {
       "id": "708",
+      "img":"",
       "nomenegócio": "Karol da coxinha",
       "documento": "11111111111",
       "email": "ka1508@gmail.com",
