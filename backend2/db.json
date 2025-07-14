@@ -2,38 +2,48 @@
   "usuarios": [
     {
       "id": "e353",
+      "nome": "teste",
       "email": "teste@gmail.com",
-      "senha": "teste",
-      "nome": "teste",
-      "documento": "12344567"
-    },
-    {
-      "id": "7cbe",
-      "nome": "teste",
+      "documento": "12344567",
       "senha": "teste"
     },
     {
-      "id": "b483",
-      "nome": "nilson",
-      "documento": "124574857878",
-      "senha": "123456"
+      "id": "e353",
+      "nome": "teste",
+      "email": "teste@gmail.com",
+      "documento": "12344567",
+      "senha": "teste"
     },
     {
-      "id": "e776",
-      "nome": "nilson",
-      "senha": "123456"
+      "id": "e353",
+      "nome": "teste",
+      "email": "teste@gmail.com",
+      "documento": "12344567",
+      "senha": "teste"
+    },
+    {
+      "id": "e353",
+      "nome": "teste",
+      "email": "teste@gmail.com",
+      "documento": "12344567",
+      "senha": "teste"
     }
   ],
   "login": [
     {
       "id": "e353",
-      "nome": "teste",
+      "email": "teste123@gmail.com",
       "senha": "teste"
     },
     {
       "id": "d2d6",
-      "nome": "teste2",
+      "email": "teste345@gmail.com",
       "senha": "testew2"
+    },
+    {
+      "id": "593c",
+      "email": "teste123@gmail.com",
+      "senha": "teste"
     }
   ],
   "cadastroprodutos": [
@@ -56,22 +66,21 @@
   "cadastroempresas": [
     {
       "id": "639",
-      "img":"",
       "nomenegócio": "gil do lanche",
       "documento": "40028922",
       "email": "gil123@gmail.com",
       "categoria": "1",
-      "endereco":"Rua 1travessa Santo Aleixo"
+      "endereco": "Rua 1travessa Santo Aleixo",
+      "img": ""
     },
     {
       "id": "708",
-      "img":"",
       "nomenegócio": "Karol da coxinha",
       "documento": "11111111111",
       "email": "ka1508@gmail.com",
       "categoria": "2",
-       "endereco":"Rua 2travessa Santo Aleixo"
+      "endereco": "Rua 2travessa Santo Aleixo",
+      "img": ""
     }
   ]
-  
 }
