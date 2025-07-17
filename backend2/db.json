@@ -44,6 +44,26 @@
       "id": "593c",
       "email": "teste123@gmail.com",
       "senha": "teste"
+    },
+    {
+      "id": "4d07",
+      "email": "teste123@gmail.com",
+      "senha": "teste"
+    },
+    {
+      "id": "dcd4",
+      "email": "teste123@gmail.com",
+      "senha": "teste"
+    },
+    {
+      "id": "aa8b",
+      "email": "teste123@gmail.com",
+      "senha": "teste"
+    },
+    {
+      "id": "5780",
+      "email": "teste123@gmail.com",
+      "senha": "teste"
     }
   ],
   "cadastroprodutos": [
@@ -81,6 +101,15 @@
       "categoria": "2",
       "endereco": "Rua 2travessa Santo Aleixo",
       "img": ""
+    }
+  ],
+  "feedbacks": [
+    {
+      "descricao": ""
+    },
+    {
+      "id": "80dc",
+      "descricao": "dsdds"
     }
   ]
 }
